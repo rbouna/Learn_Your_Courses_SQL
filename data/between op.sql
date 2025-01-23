@@ -1,0 +1,3 @@
+SELECT *
+FROM players01
+WHERE rating BETWEEN 90 AND 92;

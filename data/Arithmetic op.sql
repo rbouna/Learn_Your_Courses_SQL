@@ -1,0 +1,1 @@
+SELECT 202 % 100 As newresult;

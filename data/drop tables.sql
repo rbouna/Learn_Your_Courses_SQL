@@ -1,0 +1,1 @@
+DROP table if EXISTS premium_customers;
